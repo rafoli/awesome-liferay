@@ -15,7 +15,7 @@ Liferay Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+* [Contribute](https://github.com/rafoli/awesome-liferay/blob/master/CONTRIBUTING.md)
 
 ## Samples
 
@@ -25,7 +25,7 @@ Liferay Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+* [Contribute](https://github.com/rafoli/awesome-liferay/blob/master/CONTRIBUTING.md)
  
 ## Compatibility Matrix
 

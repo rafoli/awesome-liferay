@@ -6,6 +6,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
     - [Documentation](#documentation)
     - [Samples](#samples)
     - [Compatibility Matrix](#compatibility-matrix)
+    - [Blogs](#blogs)
 
 ## Documentation
 
@@ -30,6 +31,17 @@ Community Repos:
 ## Compatibility Matrix
 
 * [liferay-compatibility-matrix](https://web.liferay.com/pt/services/support/compatibility-matrix) - Details of the configurations that are certified and supported by Liferay
+
+## Blogs
+
+Liferay Repos:
+
+* [Liferay Blogs](https://web.liferay.com/community/blogs/highlighted)
+
+Community Repos:
+
+* [Contribute](https://github.com/rafoli/awesome-liferay/blob/master/CONTRIBUTING.md)
+
 
 # Contributing
 

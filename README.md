@@ -14,11 +14,25 @@
   		  
 A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other resources.
 - [Awesome Liferay](#awesome-liferay)
+    - [Products](#products)  
     - [Documentation](#documentation)
     - [Samples](#samples)
     - [Compatibility Matrix](#compatibility-matrix)
     - [Blogs](#blogs)
     - [IDE](#ide)
+
+## Products
+* [Liferay Portal](https://www.liferay.com/)
+* [Liferay DXP](https://www.liferay.com/digital-experience-platform)
+* [Liferay Connected Services](https://www.liferay.com/supporting-products/liferay-connected-services)
+* [Liferay Sync](https://www.liferay.com/supporting-products/liferay-sync)
+* [Liferay Screens](https://www.liferay.com/supporting-products/liferay-connected-services)
+* [Liferay Developer Tools](https://web.liferay.com/downloads/liferay-projects/liferay-ide)
+* [Liferay Faces](http://www.liferayfaces.org/)
+* [AlloyUI](http://alloyui.com/)
+* [Mobile SDK](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/mobile)
+
+
 
 ## Documentation
 

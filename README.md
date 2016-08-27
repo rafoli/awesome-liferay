@@ -1,5 +1,7 @@
 # Awesome Liferay
 ==============		
+  
+## Contents
   		  
 A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other resources.
 - [Awesome Liferay](#awesome-liferay)

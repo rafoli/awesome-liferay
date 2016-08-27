@@ -25,7 +25,7 @@ Community Repos:
 
 Liferay Repos:
 
-* [liferay-blade-samples](https://github.com/liferay/liferay-blade-samples) - Liferay Samples.
+* [Liferay Samples](https://github.com/liferay/liferay-blade-samples) - Rest, ServiceBuilder, Hooks, AutoLogin, FriendlyUrl, etc.
 
 Community Repos:
 

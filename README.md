@@ -9,6 +9,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
     - [Samples](#samples)
     - [Compatibility Matrix](#compatibility-matrix)
     - [Blogs](#blogs)
+    - [IDE](#ide)
 
 ## Documentation
 
@@ -26,6 +27,10 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 ## Blogs
 
 * [Liferay Blogs](https://web.liferay.com/community/blogs/highlighted)
+
+## IDE
+
+* [Liferay IDE](https://web.liferay.com/downloads/liferay-projects/liferay-ide)
 
 
 # Contributing

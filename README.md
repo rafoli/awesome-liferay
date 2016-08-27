@@ -11,7 +11,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 
 Liferay Repos:
 
-* [dev-liferay](https://dev.liferay.com/) - Liferay Developer Network.
+* [Liferay Developer Network](https://dev.liferay.com/)
 
 Community Repos:
 
@@ -21,7 +21,7 @@ Community Repos:
 
 Liferay Repos:
 
-* [blade-samples](https://github.com/liferay/liferay-blade-samples) - Liferay Samples.
+* [liferay-blade-samples](https://github.com/liferay/liferay-blade-samples) - Liferay Samples.
 
 Community Repos:
 

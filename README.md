@@ -1,7 +1,10 @@
 # Awesome Liferay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ==============
 
-[<img src="https://account.liferay.com/documents/14/8441540/Liferay-Logo-Website-Retina2.png/3aeff1e4-5d66-43de-8d54-ee7911ee8cb8?t=1398714210000" align="right" width="100">](https://www.liferay.com/)
+[<img src="https://pbs.twimg.com/profile_images/649136820370980864/bUceBOPq.jpg" align="right" width="100">](https://www.liferay.com/)
+
+[<img src="https://dudodiprj2sv7.cloudfront.net/product-logos/6q/jv/86TF321X3QWS-180x180.PNG" align="right" width="100">](https://www.liferay.com/digital-experience-platform)
+
 
 > Useful resources for working with [Liferay](https://www.liferay.com/)
 

@@ -29,7 +29,7 @@ Community Repos:
  
 ## Compatibility Matrix
 
-* [liferay-matrix](https://web.liferay.com/pt/services/support/compatibility-matrix) - Details of the configurations that are certified and supported by Liferay
+* [liferay-compatibility-matrix](https://web.liferay.com/pt/services/support/compatibility-matrix) - Details of the configurations that are certified and supported by Liferay
 
 # Contributing
 

@@ -12,24 +12,12 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 
 ## Documentation
 
-Liferay Repos:
-
 * [Liferay Developer Network](https://dev.liferay.com/) - Liferay 7 (community)
 * [Liferay Customer Documentation](https://customer.liferay.com/) - Liferay DXP (customers)
 
-Community Repos:
-
-* [Contribute](https://github.com/rafoli/awesome-liferay/blob/master/CONTRIBUTING.md)
-
 ## Samples
 
-Liferay Repos:
-
 * [Liferay Samples](https://github.com/liferay/liferay-blade-samples) - Rest, ServiceBuilder, Hooks, AutoLogin, FriendlyUrl, etc.
-
-Community Repos:
-
-* [Contribute](https://github.com/rafoli/awesome-liferay/blob/master/CONTRIBUTING.md)
  
 ## Compatibility Matrix
 
@@ -37,13 +25,7 @@ Community Repos:
 
 ## Blogs
 
-Liferay Repos:
-
 * [Liferay Blogs](https://web.liferay.com/community/blogs/highlighted)
-
-Community Repos:
-
-* [Contribute](https://github.com/rafoli/awesome-liferay/blob/master/CONTRIBUTING.md)
 
 
 # Contributing

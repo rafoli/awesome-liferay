@@ -23,7 +23,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 
 ## Documentation
 
-* [Liferay Developer Network](https://dev.liferay.com/) - Liferay 7 (community)
+* [Liferay Developer Documentation](https://dev.liferay.com/) - Liferay 7 (community)
 * [Liferay Customer Documentation](https://customer.liferay.com/) - Liferay DXP (customers)    
 
 ## Products

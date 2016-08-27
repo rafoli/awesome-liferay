@@ -14,12 +14,17 @@
   		  
 A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other resources.
 - [Awesome Liferay](#awesome-liferay)
-    - [Products](#products)  
     - [Documentation](#documentation)
+    - [Products](#products)  
     - [Samples](#samples)
     - [Compatibility Matrix](#compatibility-matrix)
     - [Blogs](#blogs)
     - [IDE](#ide)
+
+## Documentation
+
+* [Liferay Developer Network](https://dev.liferay.com/) - Liferay 7 (community)
+* [Liferay Customer Documentation](https://customer.liferay.com/) - Liferay DXP (customers)    
 
 ## Products
 * [Liferay Portal](https://www.liferay.com/)
@@ -32,12 +37,6 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 * [AlloyUI](http://alloyui.com/)
 * [Mobile SDK](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/mobile)
 
-
-
-## Documentation
-
-* [Liferay Developer Network](https://dev.liferay.com/) - Liferay 7 (community)
-* [Liferay Customer Documentation](https://customer.liferay.com/) - Liferay DXP (customers)
 
 ## Samples
 

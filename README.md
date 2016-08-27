@@ -1,4 +1,4 @@
-# Awesome Liferay[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Liferay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ==============
 
 [<img src="https://account.liferay.com/documents/14/8441540/Liferay-Logo-Website-Retina2.png/3aeff1e4-5d66-43de-8d54-ee7911ee8cb8?t=1398714210000" align="right" width="100">](https://www.liferay.com/)

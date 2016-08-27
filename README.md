@@ -24,7 +24,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 ## Documentation
 
 * [Liferay Developer Documentation](https://dev.liferay.com/) - Liferay 7 (community)
-  * (OSGi and Modularity](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/osgi-and-modularity)
+  * [OSGi and Modularity](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/osgi-and-modularity)
 * [Liferay Customer Documentation](https://customer.liferay.com/) - Liferay DXP (customers)    
 
 ## Products

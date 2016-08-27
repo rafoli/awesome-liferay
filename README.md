@@ -4,45 +4,27 @@
 A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other resources.
 - [Awesome Liferay](#awesome-liferay)
     - [Documentation](#documentation)
-    - [Examples](#package-management)
-    - [Database Drivers](#database-drivers)
-    - [ORM](#orm)
-    - [Web Frameworks](#web-frameworks)
-    - [RESTful API](#restful-api)
-    - [Authentication and OAuth](#authentication-and-oauth)
-    - [Template Engine](#template-engine)
+    - [Samples](#samples)
 
 ## Documentation
 
-Libraries for generating project documentation.
+Liferay Repos:
 
-## Examples
+* [dev-liferay](https://dev.liferay.com/) - Liferay Developer Network.
 
-Libraries for package and dependency management.
+Community Repos:
 
-## Database Drivers
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
-Libraties for connecting and operating databases
+## Samples
 
-## ORM
+Liferay Repos:
 
-Libraries that implement Object-Relational Mapping or datamapping techniques.
+* [blade-samples](https://github.com/liferay/liferay-blade-samples) - Liferay Samples.
 
-## Web Frameworks
+Community Repos:
 
-Web development frameworks.
-
-## RESTful API
-
-Libraries for developing RESTful APIs.
-
-## Authentication and OAuth
-
-Libraries for implementing authentications schemes.
-
-## Template Engine
-
-Libraries and tools for templating and lexing.
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 # Contributing
 

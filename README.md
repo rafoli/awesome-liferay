@@ -20,7 +20,6 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
     - [Tools](#tools)
     - [Compatibility Matrix](#compatibility-matrix)
     - [Blogs](#blogs)
-    - [IDE](#ide)
 
 ## Documentation
 
@@ -32,6 +31,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 ## Products
 * [Liferay Portal](https://www.liferay.com/)
 * [Liferay DXP](https://www.liferay.com/digital-experience-platform)
+* [Liferay IDE](https://web.liferay.com/downloads/liferay-projects/liferay-ide)
 * [Liferay Connected Services](https://www.liferay.com/supporting-products/liferay-connected-services)
 * [Liferay Sync](https://www.liferay.com/supporting-products/liferay-sync)
 * [Liferay Screens](https://www.liferay.com/supporting-products/liferay-connected-services)
@@ -56,10 +56,6 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 ## Blogs
 
 * [Liferay Blogs](https://web.liferay.com/community/blogs/highlighted)
-
-## IDE
-
-* [Liferay IDE](https://web.liferay.com/downloads/liferay-projects/liferay-ide)
 
 
 # Contributing

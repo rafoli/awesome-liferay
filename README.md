@@ -43,7 +43,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 
 ## Samples
 
-* [Liferay Samples](https://github.com/liferay/liferay-blade-samples) - Rest, ServiceBuilder, Hooks, AutoLogin, FriendlyUrl, etc.
+* [Liferay Blade Samples](https://github.com/liferay/liferay-blade-samples) - Rest, ServiceBuilder, Hooks, AutoLogin, FriendlyUrl, etc.
 
 ## Tools
 

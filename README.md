@@ -14,12 +14,21 @@
   		  
 A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other resources.
 - [Awesome Liferay](#awesome-liferay)
+    - [Getting started](#gettingstarted)
     - [Documentation](#documentation)
     - [Products](#products)  
     - [Samples](#samples)
     - [Tools](#tools)
     - [Compatibility Matrix](#compatibility-matrix)
     - [Blogs](#blogs)
+    
+## Getting started
+
+  * [Part 1](https://web.liferay.com/web/user.26526/blog/-/blogs/liferay-7-development-part-1) - Liferay 7, specifications and requirements
+  * [Part 2](https://web.liferay.com/web/user.26526/blog/-/blogs/liferay-7-development-part-2) - Gradle, Blade, and project structure
+  * [Part 3](https://web.liferay.com/web/user.26526/blog/-/blogs/liferay-7-development-part-2) - Building a API 
+  * [Part 4](https://web.liferay.com/web/user.26526/blog/-/blogs/liferay-7-development-part-4) - Service implementation
+  * [Part 5](https://web.liferay.com/web/user.26526/blog/-/blogs/liferay-7-development-part-5) - Portlet configurations and deployment
 
 ## Documentation
 

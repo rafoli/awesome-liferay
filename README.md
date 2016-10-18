@@ -53,7 +53,6 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 ## Samples
 
 * [Liferay Blade Samples](https://github.com/liferay/liferay-blade-samples) - Rest, ServiceBuilder, Hooks, AutoLogin, FriendlyUrl, etc.
-* [Liferay Faces/JSF Demos](https://web.liferay.com/community/liferay-projects/liferay-faces/demos) - Reference Portlets
 
 ## Tools
 

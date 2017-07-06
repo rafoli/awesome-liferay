@@ -1,5 +1,4 @@
 # Awesome Liferay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-==============
 
 [<img src="https://dudodiprj2sv7.cloudfront.net/product-logos/6q/jv/86TF321X3QWS-180x180.PNG" align="right" width="100">](https://www.liferay.com/digital-experience-platform)
 

@@ -2,8 +2,7 @@
 
 [<img src="https://dudodiprj2sv7.cloudfront.net/product-logos/6q/jv/86TF321X3QWS-180x180.PNG" align="right" width="100">](https://www.liferay.com/digital-experience-platform)
 
-[<img src="https://pbs.twimg.com/profile_images/649136820370980864/bUceBOPq.jpg" align="right" width="100">](https://www.liferay.com/)
-
+[<img src="https://avatars3.githubusercontent.com/u/131436?v=3&s=100" align="right" width="100">](https://www.liferay.com/)
 
 > Useful resources for working with [Liferay](https://www.liferay.com/)
 

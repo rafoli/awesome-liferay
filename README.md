@@ -64,6 +64,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 ## Blogs
 
 * [Liferay Blogs](https://web.liferay.com/community/blogs/highlighted)
+* [WeDeploy Blog](http://wedeploy.com/blog/)
 
 
 # Contributing

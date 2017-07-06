@@ -46,9 +46,10 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 * [Liferay Screens](https://www.liferay.com/pt/supporting-products/liferay-screens)
 * [Liferay Developer Tools](https://web.liferay.com/downloads/liferay-projects/liferay-ide)
 * [Liferay Faces](http://www.liferayfaces.org/)
+* [Liferay Mobile SDK](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/mobile)
 * [AlloyUI](http://alloyui.com/)
-* [Mobile SDK](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/mobile)
-
+* [WeDeploy](http://wedeploy.com/)
+* [WeDeploy Mobile SDK](http://wedeploy.com/docs/intro/using-the-api-client.html#2)
 
 ## Samples
 

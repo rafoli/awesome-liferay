@@ -1,10 +1,8 @@
 # Awesome Liferay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-==============
 
 [<img src="https://dudodiprj2sv7.cloudfront.net/product-logos/6q/jv/86TF321X3QWS-180x180.PNG" align="right" width="100">](https://www.liferay.com/digital-experience-platform)
 
-[<img src="https://pbs.twimg.com/profile_images/649136820370980864/bUceBOPq.jpg" align="right" width="100">](https://www.liferay.com/)
-
+[<img src="https://avatars3.githubusercontent.com/u/131436?v=3&s=100" align="right" width="100">](https://www.liferay.com/)
 
 > Useful resources for working with [Liferay](https://www.liferay.com/)
 
@@ -43,12 +41,13 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 * [Liferay IDE](https://web.liferay.com/downloads/liferay-projects/liferay-ide)
 * [Liferay Connected Services](https://www.liferay.com/supporting-products/liferay-connected-services)
 * [Liferay Sync](https://www.liferay.com/supporting-products/liferay-sync)
-* [Liferay Screens](https://www.liferay.com/supporting-products/liferay-connected-services)
+* [Liferay Screens](https://www.liferay.com/supporting-products/liferay-screens)
 * [Liferay Developer Tools](https://web.liferay.com/downloads/liferay-projects/liferay-ide)
 * [Liferay Faces](http://www.liferayfaces.org/)
+* [Liferay Mobile SDK](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/mobile)
 * [AlloyUI](http://alloyui.com/)
-* [Mobile SDK](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/mobile)
-
+* [WeDeploy](http://wedeploy.com/)
+* [WeDeploy Mobile SDK](http://wedeploy.com/docs/intro/using-the-api-client.html#2)
 
 ## Samples
 
@@ -65,6 +64,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 ## Blogs
 
 * [Liferay Blogs](https://web.liferay.com/community/blogs/highlighted)
+* [WeDeploy Blog](http://wedeploy.com/blog/)
 
 
 # Contributing

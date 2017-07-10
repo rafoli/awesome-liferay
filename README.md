@@ -14,11 +14,14 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 - [Awesome Liferay](#awesome-liferay)
     - [Getting started](#gettingstarted)
     - [Documentation](#documentation)
-    - [Products](#products)  
+    - [Products](#products)
+        + [Platform](#platform)
+        + [Frameworks](#frameworks)
+        + [Mobile](#mobile)
     - [Samples](#samples)
     - [Tools](#tools)
     - [Compatibility Matrix](#compatibility-matrix)
-    - [Blogs](#blogs)
+    - [Blogs](#blogs-and-community)
     
 ## Getting started
 
@@ -34,20 +37,34 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
   * [OSGi and Modularity for Liferay 6 Developers](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/osgi-and-modularity-for-liferay-6-developers)
   * [Exposing REST and SOAP](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/jax-ws-and-jax-rs)
 * [Liferay Customer Documentation](https://customer.liferay.com/) - Liferay DXP (customers)    
+* [Liferay Front-end Documentation](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/introduction-to-frontend-development)
+* [From Liferay Portal 6 to 7](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/from-liferay-6-to-liferay-7)
 
 ## Products
+
+### Platform
 * [Liferay Portal](https://www.liferay.com/)
 * [Liferay DXP](https://www.liferay.com/digital-experience-platform)
-* [Liferay IDE](https://web.liferay.com/downloads/liferay-projects/liferay-ide)
+* [Liferay IDE](https://web.liferay.com/downloads/liferay-projects/liferay-ide) - Development environment based on Eclipse for building modules on the Liferay Platform.
 * [Liferay Connected Services](https://www.liferay.com/supporting-products/liferay-connected-services)
-* [Liferay Sync](https://www.liferay.com/supporting-products/liferay-sync)
+
+### Frameworks
+* [AlloyUI](http://alloyui.com/) - A library of scalable UI components built on Bootstrap and YUI.
+* [AlloyEditor](http://alloyeditor.com/) - Modern content editor that improves the experience for creating web content.
+* [Liferay Faces](http://www.liferayfaces.org/) - Framework for building JavaServer Faces in webapp and portlet projects.
+* [MetalJS](http://metaljs.com/) - Modern framework for building beautiful and flexible UI components.
+* [SennaJS](http://sennajs.com/) - SPA (Single page application engine) that increases site performance and page navigation.
+
+### Mobile
+* [Liferay Sync](https://www.liferay.com/supporting-products/liferay-sync) - Secure and real-time file sharing platform for Liferay Portal.
 * [Liferay Screens](https://www.liferay.com/supporting-products/liferay-screens)
-* [Liferay Developer Tools](https://web.liferay.com/downloads/liferay-projects/liferay-ide)
-* [Liferay Faces](http://www.liferayfaces.org/)
 * [Liferay Mobile SDK](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/mobile)
-* [AlloyUI](http://alloyui.com/)
-* [WeDeploy](http://wedeploy.com/)
 * [WeDeploy Mobile SDK](http://wedeploy.com/docs/intro/using-the-api-client.html#2)
+
+### Cloud
+* [WeDeploy](http://wedeploy.com/) - Cloud platform with intuitive APIs and hosting capabilities.
+* [Liferay Marketplace](https://web.liferay.com/marketplace) - The hub for sharing, selling and downloading Liferay Portal apps.
+
 
 ## Samples
 
@@ -61,10 +78,11 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 
 * [Liferay Compatibility Matrix](https://web.liferay.com/pt/services/support/compatibility-matrix) - Details of the configurations that are certified and supported by Liferay
 
-## Blogs
+## Blogs and Community
 
 * [Liferay Blogs](https://web.liferay.com/community/blogs/highlighted)
 * [WeDeploy Blog](http://wedeploy.com/blog/)
+* [Liferay Community](https://community.liferay.com/)
 
 
 # Contributing

@@ -18,6 +18,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
         + [Platform](#platform)
         + [Frameworks](#frameworks)
         + [Mobile](#mobile)
+        + [Cloud](#cloud)
     - [Samples](#samples)
     - [Tools](#tools)
     - [Compatibility Matrix](#compatibility-matrix)

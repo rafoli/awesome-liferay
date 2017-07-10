@@ -46,7 +46,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 * [Liferay Portal](https://www.liferay.com/)
 * [Liferay DXP](https://www.liferay.com/digital-experience-platform)
 * [Liferay IDE](https://web.liferay.com/downloads/liferay-projects/liferay-ide) - Development environment based on Eclipse for building modules on the Liferay Platform.
-* [Liferay Connected Services](https://www.liferay.com/supporting-products/liferay-connected-services)
+* [Liferay Connected Services](https://www.liferay.com/supporting-products/liferay-connected-services) - Online platform that offers a set of tools and services that will help our customers succeed on their Liferay projects.
 
 ### Frameworks
 * [AlloyUI](http://alloyui.com/) - A library of scalable UI components built on Bootstrap and YUI.
@@ -57,7 +57,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 
 ### Mobile
 * [Liferay Sync](https://www.liferay.com/supporting-products/liferay-sync) - Secure and real-time file sharing platform for Liferay Portal.
-* [Liferay Screens](https://www.liferay.com/supporting-products/liferay-screens)
+* [Liferay Screens](https://www.liferay.com/supporting-products/liferay-screens) - A collection of fully native mobile components.
 * [Liferay Mobile SDK](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/mobile)
 * [WeDeploy Mobile SDK](http://wedeploy.com/docs/intro/using-the-api-client.html#2)
 

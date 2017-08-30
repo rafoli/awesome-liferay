@@ -39,6 +39,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
   * [Exposing REST and SOAP](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/jax-ws-and-jax-rs)
 * [Liferay Customer Documentation](https://customer.liferay.com/) - Liferay DXP (customers)    
 * [Liferay Front-end Documentation](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/introduction-to-frontend-development)
+* [Liferay Portal EE Reference Architecture & Hardware Requirements](https://www.liferay.com/pt/resource?folderId=1645493&title=Liferay+Portal+EE+Reference+Architecture+and+Hardware+Requirements)
 * [From Liferay Portal 6 to 7](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/from-liferay-6-to-liferay-7)
 
 ## Products

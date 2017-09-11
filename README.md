@@ -75,6 +75,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 ## Tools
 
 * [Blade CLI](https://github.com/liferay/liferay-blade-cli) - A command line java tool that can be used to help bootstrap Liferay 7 module development.
+* [Liferay OSGi Watch](https://github.com/liferay/liferay-osgi-watch) - Watcher utility to help when developing on Liferay 7
  
 ## Compatibility Matrix
 

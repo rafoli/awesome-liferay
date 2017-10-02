@@ -45,7 +45,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 ## Products
 
 ### Platform
-* [Liferay Portal](https://www.liferay.com/)
+* [Liferay Portal](https://www.liferay.com/) - A powerful platform for building enterprise websites and apps
 * [Liferay DXP](https://www.liferay.com/digital-experience-platform)
 * [Liferay IDE](https://web.liferay.com/downloads/liferay-projects/liferay-ide) - Development environment based on Eclipse for building modules on the Liferay Platform.
 * [Liferay Connected Services](https://www.liferay.com/supporting-products/liferay-connected-services) - Online platform that offers a set of tools and services that will help our customers succeed on their Liferay projects.
@@ -53,6 +53,8 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 ### Frameworks
 * [AlloyUI](http://alloyui.com/) - A library of scalable UI components built on Bootstrap and YUI.
 * [AlloyEditor](http://alloyeditor.com/) - Modern content editor that improves the experience for creating web content.
+* [Clay](https://claycss.com/) - A web implementation of the Lexicon Experience Design Language
+* [Lexicon](https://lexicondesign.io/) - An Experience Design Language created with the aim of providing a common framework for building interfaces
 * [Liferay Faces](http://www.liferayfaces.org/) - Framework for building JavaServer Faces in webapp and portlet projects.
 * [MetalJS](http://metaljs.com/) - Modern framework for building beautiful and flexible UI components.
 * [SennaJS](http://sennajs.com/) - SPA (Single page application engine) that increases site performance and page navigation.

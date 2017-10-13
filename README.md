@@ -58,6 +58,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 * [Liferay Faces](http://www.liferayfaces.org/) - Framework for building JavaServer Faces in webapp and portlet projects.
 * [MetalJS](http://metaljs.com/) - Modern framework for building beautiful and flexible UI components.
 * [SennaJS](http://sennajs.com/) - SPA (Single page application engine) that increases site performance and page navigation.
+* [Vulcan](https://vulcan.wedeploy.io/) - Guidelines and developer tools for building efficient and evolvable RESTful APIs
 
 ### Mobile
 * [Liferay Sync](https://www.liferay.com/supporting-products/liferay-sync) - Secure and real-time file sharing platform for Liferay Portal.

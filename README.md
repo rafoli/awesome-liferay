@@ -20,6 +20,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
         + [Mobile](#mobile)
         + [Cloud](#cloud)
     - [Samples](#samples)
+        + [Frontend](#frontend)
     - [Tools](#tools)
     - [Compatibility Matrix](#compatibility-matrix)
     - [Blogs](#blogs-and-community)
@@ -74,6 +75,9 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 ## Samples
 
 * [Liferay Blade Samples](https://github.com/liferay/liferay-blade-samples) - Rest, ServiceBuilder, Hooks, AutoLogin, FriendlyUrl, etc.
+
+### Frontend Samples
+* [Frontend Samples, Tips and Utilities](https://github.com/jordanamorais/lfrgs-frontend-samples) - Some useful kick-starter files and tips to improve GS Frontend Development and Liferay content configuration.
 
 ## Tools
 

@@ -1,6 +1,6 @@
 # Awesome Liferay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://dudodiprj2sv7.cloudfront.net/product-logos/6q/jv/86TF321X3QWS-180x180.PNG" align="right" width="100">](https://www.liferay.com/digital-experience-platform)
+[<img src="https://github.com/rafoli/awesome-liferay/raw/master/liferay_dxp.png" align="right" width="100">](https://www.liferay.com/digital-experience-platform)
 
 [<img src="https://avatars3.githubusercontent.com/u/131436?v=3&s=100" align="right" width="100">](https://www.liferay.com/)
 
@@ -10,7 +10,7 @@
   
 ## Contents
   		  
-A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other resources.
+A curated list of awesome Liferay 7.x and DXP docs, libraries, blogs and other resources.
 - [Awesome Liferay](#awesome-liferay)
     - [Getting started](#gettingstarted)
     - [Documentation](#documentation)
@@ -88,8 +88,8 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 ## Tools
 
 * [Blade CLI](https://github.com/liferay/liferay-blade-cli) - A command line java tool that can be used to help bootstrap Liferay 7 module development.
-* [Liferay OSGi Watch](https://github.com/liferay/liferay-osgi-watch) - Watcher utility to help when developing on Liferay 7
-* [Lessteps](https://github.com/rafoli/lessteps) - Some useful commands for Liferay 7.0/DXP developers
+* [Liferay OSGi Watch](https://github.com/liferay/liferay-osgi-watch) - Watcher utility to help when developing on Liferay 7.x
+* [Lessteps](https://github.com/rafoli/lessteps) - Some useful commands for Liferay 7.x/DXP developers
  
 ## Compatibility Matrix
 

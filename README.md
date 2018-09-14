@@ -21,6 +21,7 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
         + [Cloud](#cloud)
     - [Samples](#samples)
         + [Frontend](#frontend-samples)
+        + [Tips and Tricks](#tips-and-tricks)
     - [Tools](#tools)
     - [Compatibility Matrix](#compatibility-matrix)
     - [Blogs](#blogs-and-community)
@@ -79,6 +80,10 @@ A curated list of awesome Liferay 7 and DXP docs, libraries, blogs and other res
 ### Frontend Samples
 * [Angular](https://github.com/andrefabbro/liferay-dxp-angular4js) - Liferay DXP + Angular 4
 * [Frontend Samples, Tips and Utilities](https://github.com/jordanamorais/lfrgs-frontend-samples) - Some useful kick-starter files and tips to improve GS Frontend Development and Liferay content configuration.
+
+### Tips and Tricks
+* [DXP Playgrond](https://github.com/andrefabbro/dxp-playground) - Hacks
+
 
 ## Tools
 

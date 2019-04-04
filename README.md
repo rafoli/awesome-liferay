@@ -64,7 +64,6 @@ A curated list of awesome Liferay 7.x and DXP docs, libraries, blogs and other r
 * [Liferay Sync](https://www.liferay.com/supporting-products/liferay-sync) - Secure and real-time file sharing platform for Liferay Portal.
 * [Liferay Screens](https://www.liferay.com/supporting-products/liferay-screens) - A collection of fully native mobile components.
 * [Liferay Mobile SDK](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/mobile)
-* [WeDeploy Mobile SDK](http://wedeploy.com/docs/intro/using-the-api-client.html#2)
 
 ### Cloud
 * [DXP Cloud](https://www.liferay.com/products/dxp-cloud) - Enterprise PaaS Tailored for Liferay DXP.
@@ -98,7 +97,6 @@ A curated list of awesome Liferay 7.x and DXP docs, libraries, blogs and other r
 ## Blogs and Community
 
 * [Liferay Community](https://community.liferay.com/)
-* [WeDeploy Blog](http://wedeploy.com/blog/)
 
 
 # Contributing

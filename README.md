@@ -57,10 +57,8 @@ A curated list of awesome Liferay 7.x and DXP docs, libraries, blogs and other r
 * [AlloyEditor](http://alloyeditor.com/) - Modern content editor that improves the experience for creating web content.
 * [Clay](https://claycss.com/) - A web implementation of the Lexicon Experience Design Language
 * [Lexicon](https://lexicondesign.io/) - An Experience Design Language created with the aim of providing a common framework for building interfaces
-* [Liferay Faces](http://www.liferayfaces.org/) - Framework for building JavaServer Faces in webapp and portlet projects.
 * [MetalJS](http://metaljs.com/) - Modern framework for building beautiful and flexible UI components.
 * [SennaJS](http://sennajs.com/) - SPA (Single page application engine) that increases site performance and page navigation.
-* [Vulcan](https://vulcan.wedeploy.io/) - Guidelines and developer tools for building efficient and evolvable RESTful APIs
 
 ### Mobile
 * [Liferay Sync](https://www.liferay.com/supporting-products/liferay-sync) - Secure and real-time file sharing platform for Liferay Portal.
@@ -69,7 +67,7 @@ A curated list of awesome Liferay 7.x and DXP docs, libraries, blogs and other r
 * [WeDeploy Mobile SDK](http://wedeploy.com/docs/intro/using-the-api-client.html#2)
 
 ### Cloud
-* [WeDeploy](http://wedeploy.com/) - Cloud platform with intuitive APIs and hosting capabilities.
+* [DXP Cloud](https://www.liferay.com/products/dxp-cloud) - Enterprise PaaS Tailored for Liferay DXP.
 * [Liferay Marketplace](https://web.liferay.com/marketplace) - The hub for sharing, selling and downloading Liferay Portal apps.
 
 

@@ -91,6 +91,8 @@ A curated list of awesome Liferay 7.x and DXP docs, libraries, blogs and other r
 * [Liferay OSGi Watch](https://github.com/liferay/liferay-osgi-watch) - Watcher utility to help when developing on Liferay 7.x
 * [Lessteps](https://github.com/rafoli/lessteps) - Some useful commands for Liferay 7.x/DXP developers
  
+* [Dummy Factory](https://github.com/yasuflatland-lf/liferay-dummy-factory) Dummy data generator for Liferay 7.x
+* [Damascus](https://github.com/yasuflatland-lf/damascus) Service Builder based CRUD generator for Lifeary 7.x
 ## Compatibility Matrix
 
 * [Liferay Compatibility Matrix](https://web.liferay.com/pt/services/support/compatibility-matrix) - Details of the configurations that are certified and supported by Liferay

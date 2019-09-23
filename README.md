@@ -14,6 +14,7 @@ A curated list of awesome Liferay 7.x and DXP docs, libraries, blogs and other r
 - [Awesome Liferay](#awesome-liferay)
     - [Getting started](#gettingstarted)
     - [Documentation](#documentation)
+    - [Useful Posts](#posts)
     - [Products](#products)
         + [Platform](#platform)
         + [Frameworks](#frameworks)

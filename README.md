@@ -44,6 +44,10 @@ A curated list of awesome Liferay 7.x and DXP docs, libraries, blogs and other r
 * [Liferay Portal EE Reference Architecture & Hardware Requirements](https://www.liferay.com/pt/resource?folderId=1645493&title=Liferay+Portal+EE+Reference+Architecture+and+Hardware+Requirements)
 * [From Liferay Portal 6 to 7](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/from-liferay-6-to-liferay-7)
 
+## Userful posts
+* [Liferay 7: Scheduler Manager Gogo Shell Commands](https://www.dontesta.it/en/2017/07/16/liferay-7-scheduler-manager-gogo-shell-command/)
+* [How to enable a JAX-WS Handler to audit SOAP messages via the Liferay Audit Framework](https://www.dontesta.it/en/2019/09/21/how-to-enable-jax-ws-handler-to-audit-soap-messages-via-liferay-audit-framework/)
+
 ## Products
 
 ### Platform
